@@ -1,0 +1,282 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="5b3be832-7949-4dfd-93bf-38269d72d3c8" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../first_project/src/Dates_orai_gyarkorlas/Dates_exercise01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../first_project/src/Dates_orai_gyarkorlas/Dates_exercise02.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../first_project/src/Dates_orai_gyarkorlas/LocalDateTime_exercixe03.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../first_project/src/Dates_orai_gyarkorlas/Task100.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../first_project/src/Dates_orai_gyarkorlas/Task100_v2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../first_project/src/Dates_orai_gyarkorlas/Task101.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../first_project/src/Dates_orai_gyarkorlas/Task101_v2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../first_project/src/Dates_orai_gyarkorlas/Task102.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../first_project/src/Dates_orai_gyarkorlas/Task102_Csaba.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../first_project/src/Dates_orai_gyarkorlas/Task102_practiceAtHome.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../first_project/src/Dates_orai_gyarkorlas/Task102_practiceAtHome_v2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../first_project/src/Dates_orai_gyarkorlas/Task104.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../first_project/src/Dates_orai_gyarkorlas/Task97_focimeccsek.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../first_project/src/Dates_orai_gyarkorlas/Task98_.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../first_project/src/Dates_orai_gyarkorlas/Task99_.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../first_project/src/Dates_orai_gyarkorlas/TimeMills.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../first_project/src/Dates_orai_gyarkorlas/Time_exercise01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../first_project/src/Task103/Person.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../first_project/src/Task103/PersonReader.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../first_project/src/Task103/PracticeAtHome/PersonHW.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../first_project/src/Task103/PracticeAtHome/PersonReaderHW.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../first_project/src/Task103b/Person.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../first_project/src/Task103b/PersonReader.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../first_project/src/Task64_Methods_Calculator_HW.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../first_project/src/enums/AllEnums.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../first_project/src/enums/Days.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../first_project/src/enums/EnumInClass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../first_project/src/enums/Evaluation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../first_project/src/enums/LevelNew.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../first_project/src/enums/Task105/Task105.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../first_project/src/enums/Task106/Task106.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../first_project/src/enums/Task107/OrderStatus.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../first_project/src/enums/Task107/OrderStatusEnum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../first_project/src/enums/Task107/OrderStatus_Method.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../first_project/src/enums/Task107/UtilMethods.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../first_project/src/enums/Task108/Task108.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../first_project/src/enums/Task109/Task109.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaCore/out/production/JavaCore/hu/progmatic/AutoMain.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaCore/out/production/JavaCore/hu/progmatic/CarTask13/Car.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaCore/out/production/JavaCore/hu/progmatic/CarTask13/FormulaOneRunner.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaCore/out/production/JavaCore/hu/progmatic/CarTask13/MercedesPilotOne.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaCore/out/production/JavaCore/hu/progmatic/CarTask13/Race.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaCore/out/production/JavaCore/hu/progmatic/Donut.class" beforeDir="false" afterPath="$PROJECT_DIR$/../JavaCore/out/production/JavaCore/hu/progmatic/Donut.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaCore/out/production/JavaCore/hu/progmatic/Enkapszulacio/Circle.class" beforeDir="false" afterPath="$PROJECT_DIR$/../JavaCore/out/production/JavaCore/hu/progmatic/Enkapszulacio/Circle.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaCore/out/production/JavaCore/hu/progmatic/Enkapszulacio/CircleRunner.class" beforeDir="false" afterPath="$PROJECT_DIR$/../JavaCore/out/production/JavaCore/hu/progmatic/Enkapszulacio/CircleRunner.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaCore/out/production/JavaCore/hu/progmatic/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaCore/out/production/JavaCore/hu/progmatic/Oroklodes/AmbulanceCar.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaCore/out/production/JavaCore/hu/progmatic/Oroklodes/Animal.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaCore/out/production/JavaCore/hu/progmatic/Oroklodes/Dog.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaCore/out/production/JavaCore/hu/progmatic/Oroklodes/DogRunner.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaCore/out/production/JavaCore/hu/progmatic/Oroklodes/DonutsTask8/ChocolateDonuts.class" beforeDir="false" afterPath="$PROJECT_DIR$/../JavaCore/out/production/JavaCore/hu/progmatic/Oroklodes/DonutsTask8/ChocolateDonuts.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaCore/out/production/JavaCore/hu/progmatic/Oroklodes/DonutsTask8/ClassicDonutsParent.class" beforeDir="false" afterPath="$PROJECT_DIR$/../JavaCore/out/production/JavaCore/hu/progmatic/Oroklodes/DonutsTask8/ClassicDonutsParent.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaCore/out/production/JavaCore/hu/progmatic/Oroklodes/DonutsTask8/DonutsRunner.class" beforeDir="false" afterPath="$PROJECT_DIR$/../JavaCore/out/production/JavaCore/hu/progmatic/Oroklodes/DonutsTask8/DonutsRunner.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaCore/out/production/JavaCore/hu/progmatic/Oroklodes/DonutsTask8/MarmaladeDonuts.class" beforeDir="false" afterPath="$PROJECT_DIR$/../JavaCore/out/production/JavaCore/hu/progmatic/Oroklodes/DonutsTask8/MarmaladeDonuts.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaCore/out/production/JavaCore/hu/progmatic/Oroklodes/EmployeeTask9/DirectReport.class" beforeDir="false" afterPath="$PROJECT_DIR$/../JavaCore/out/production/JavaCore/hu/progmatic/Oroklodes/EmployeeTask9/DirectReport.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaCore/out/production/JavaCore/hu/progmatic/Oroklodes/EmployeeTask9/Employee.class" beforeDir="false" afterPath="$PROJECT_DIR$/../JavaCore/out/production/JavaCore/hu/progmatic/Oroklodes/EmployeeTask9/Employee.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaCore/out/production/JavaCore/hu/progmatic/Oroklodes/EmployeeTask9/EmployeeRunner.class" beforeDir="false" afterPath="$PROJECT_DIR$/../JavaCore/out/production/JavaCore/hu/progmatic/Oroklodes/EmployeeTask9/EmployeeRunner.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaCore/out/production/JavaCore/hu/progmatic/Oroklodes/EmployeeTask9/Manager.class" beforeDir="false" afterPath="$PROJECT_DIR$/../JavaCore/out/production/JavaCore/hu/progmatic/Oroklodes/EmployeeTask9/Manager.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaCore/out/production/JavaCore/hu/progmatic/Oroklodes/MoreChild/ChildOne.class" beforeDir="false" afterPath="$PROJECT_DIR$/../JavaCore/out/production/JavaCore/hu/progmatic/Oroklodes/MoreChild/ChildOne.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaCore/out/production/JavaCore/hu/progmatic/Oroklodes/MoreChild/ChildThree.class" beforeDir="false" afterPath="$PROJECT_DIR$/../JavaCore/out/production/JavaCore/hu/progmatic/Oroklodes/MoreChild/ChildThree.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaCore/out/production/JavaCore/hu/progmatic/Oroklodes/MoreChild/ChildTwo.class" beforeDir="false" afterPath="$PROJECT_DIR$/../JavaCore/out/production/JavaCore/hu/progmatic/Oroklodes/MoreChild/ChildTwo.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaCore/out/production/JavaCore/hu/progmatic/Oroklodes/MoreChild/CommonParentForChildreOneAndTwo.class" beforeDir="false" afterPath="$PROJECT_DIR$/../JavaCore/out/production/JavaCore/hu/progmatic/Oroklodes/MoreChild/CommonParentForChildreOneAndTwo.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaCore/out/production/JavaCore/hu/progmatic/Oroklodes/MoreChild/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/../JavaCore/out/production/JavaCore/hu/progmatic/Oroklodes/MoreChild/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaCore/out/production/JavaCore/hu/progmatic/Oroklodes/MoreChild/Parent.class" beforeDir="false" afterPath="$PROJECT_DIR$/../JavaCore/out/production/JavaCore/hu/progmatic/Oroklodes/MoreChild/Parent.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaCore/out/production/JavaCore/hu/progmatic/Oroklodes/RacingCar.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaCore/out/production/JavaCore/hu/progmatic/Oroklodes/Vehicle.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaCore/out/production/JavaCore/hu/progmatic/Oroklodes/VehicleRunner.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaCore/out/production/JavaCore/hu/progmatic/PolygoninterfaceTask11/PolygonRunner.class" beforeDir="false" afterPath="$PROJECT_DIR$/../JavaCore/out/production/JavaCore/hu/progmatic/PolygoninterfaceTask11/PolygonRunner.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaCore/out/production/JavaCore/hu/progmatic/PolygoninterfaceTask11/Polygoninterface.class" beforeDir="false" afterPath="$PROJECT_DIR$/../JavaCore/out/production/JavaCore/hu/progmatic/PolygoninterfaceTask11/Polygoninterface.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaCore/out/production/JavaCore/hu/progmatic/PolygoninterfaceTask11/Rectangle.class" beforeDir="false" afterPath="$PROJECT_DIR$/../JavaCore/out/production/JavaCore/hu/progmatic/PolygoninterfaceTask11/Rectangle.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaCore/out/production/JavaCore/hu/progmatic/PolygoninterfaceTask11/Square.class" beforeDir="false" afterPath="$PROJECT_DIR$/../JavaCore/out/production/JavaCore/hu/progmatic/PolygoninterfaceTask11/Square.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaCore/out/production/JavaCore/hu/progmatic/PolygoninterfaceTask11/SquareInterface.class" beforeDir="false" afterPath="$PROJECT_DIR$/../JavaCore/out/production/JavaCore/hu/progmatic/PolygoninterfaceTask11/SquareInterface.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaCore/out/production/JavaCore/hu/progmatic/PolygoninterfaceTask11/SquareRunner.class" beforeDir="false" afterPath="$PROJECT_DIR$/../JavaCore/out/production/JavaCore/hu/progmatic/PolygoninterfaceTask11/SquareRunner.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaCore/out/production/JavaCore/hu/progmatic/SportTask12/Execution.class" beforeDir="false" afterPath="$PROJECT_DIR$/../JavaCore/out/production/JavaCore/hu/progmatic/SportTask12/Execution.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaCore/out/production/JavaCore/hu/progmatic/SportTask12/SemiFinal.class" beforeDir="false" afterPath="$PROJECT_DIR$/../JavaCore/out/production/JavaCore/hu/progmatic/SportTask12/SemiFinal.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaCore/out/production/JavaCore/hu/progmatic/SportTask12/Sport.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaCore/out/production/JavaCore/hu/progmatic/interfaces/WebshopTask10/Order.class" beforeDir="false" afterPath="$PROJECT_DIR$/../JavaCore/out/production/JavaCore/hu/progmatic/interfaces/WebshopTask10/Order.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaCore/out/production/JavaCore/hu/progmatic/resources/student.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaCore/out/production/JavaCore/hu/progmatic/task5/RegistrationMain.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaCore/out/production/JavaCore/hu/progmatic/task5/User.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaCore/out/production/JavaCore/hu/progmatic/task6/Booking.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaCore/out/production/JavaCore/hu/progmatic/task6/BookingMain.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaCore/out/production/JavaCore/hu/progmatic/temp/Employee.class" beforeDir="false" afterPath="$PROJECT_DIR$/../JavaCore/out/production/JavaCore/hu/progmatic/temp/Employee.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaCore/out/production/JavaCore/hu/progmatic/temp/EmployeeMain.class" beforeDir="false" afterPath="$PROJECT_DIR$/../JavaCore/out/production/JavaCore/hu/progmatic/temp/EmployeeMain.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaCore/src/hu/progmatic/Abstract_Employee/Employee.java" beforeDir="false" afterPath="$PROJECT_DIR$/../JavaCore/src/hu/progmatic/Abstract_Employee/Employee.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaCore/src/hu/progmatic/Abstract_Employee/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../JavaCore/src/hu/progmatic/Abstract_Employee/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaCore/src/hu/progmatic/Abstract_Employee/SoftwareTester.java" beforeDir="false" afterPath="$PROJECT_DIR$/../JavaCore/src/hu/progmatic/Abstract_Employee/SoftwareTester.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaCore/src/hu/progmatic/Abstract_ProgamticClassroom/AbstractDog.java" beforeDir="false" afterPath="$PROJECT_DIR$/../JavaCore/src/hu/progmatic/Abstract_ProgamticClassroom/AbstractDog.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaCore/src/hu/progmatic/Abstract_ProgamticClassroom/Runner.java" beforeDir="false" afterPath="$PROJECT_DIR$/../JavaCore/src/hu/progmatic/Abstract_ProgamticClassroom/Runner.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaCore/src/hu/progmatic/Abstract_ProgamticClassroom/Yorkie.java" beforeDir="false" afterPath="$PROJECT_DIR$/../JavaCore/src/hu/progmatic/Abstract_ProgamticClassroom/Yorkie.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaCore/src/hu/progmatic/AutoMain.java" beforeDir="false" afterPath="$PROJECT_DIR$/../JavaCore/src/hu/progmatic/homework/AutoMain.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaCore/src/hu/progmatic/Car.java" beforeDir="false" afterPath="$PROJECT_DIR$/../JavaCore/src/hu/progmatic/Car.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaCore/src/hu/progmatic/CarTask13/Car.java" beforeDir="false" afterPath="$PROJECT_DIR$/../JavaCore/src/hu/progmatic/Interfaces_CarTask13/Car.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaCore/src/hu/progmatic/CarTask13/FormulaOneRunner.java" beforeDir="false" afterPath="$PROJECT_DIR$/../JavaCore/src/hu/progmatic/Interfaces_CarTask13/FormulaOneRunner.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaCore/src/hu/progmatic/CarTask13/MercedesPilotOne.java" beforeDir="false" afterPath="$PROJECT_DIR$/../JavaCore/src/hu/progmatic/Interfaces_CarTask13/MercedesPilotOne.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaCore/src/hu/progmatic/CarTask13/Race.java" beforeDir="false" afterPath="$PROJECT_DIR$/../JavaCore/src/hu/progmatic/Interfaces_CarTask13/Race.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaCore/src/hu/progmatic/Donut.java" beforeDir="false" afterPath="$PROJECT_DIR$/../JavaCore/src/hu/progmatic/Donut.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaCore/src/hu/progmatic/Enkapszulacio/Circle.java" beforeDir="false" afterPath="$PROJECT_DIR$/../JavaCore/src/hu/progmatic/Enkapszulacio/Circle.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaCore/src/hu/progmatic/Enkapszulacio/CircleRunner.java" beforeDir="false" afterPath="$PROJECT_DIR$/../JavaCore/src/hu/progmatic/Enkapszulacio/CircleRunner.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaCore/src/hu/progmatic/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../JavaCore/src/hu/progmatic/CarMain.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaCore/src/hu/progmatic/Oroklodes/AmbulanceCar.java" beforeDir="false" afterPath="$PROJECT_DIR$/../JavaCore/src/hu/progmatic/oroklodes/Vehicle/AmbulanceCar.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaCore/src/hu/progmatic/Oroklodes/Animal.java" beforeDir="false" afterPath="$PROJECT_DIR$/../JavaCore/src/hu/progmatic/oroklodes/Animal/Animal.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaCore/src/hu/progmatic/Oroklodes/Dog.java" beforeDir="false" afterPath="$PROJECT_DIR$/../JavaCore/src/hu/progmatic/oroklodes/Animal/Dog.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaCore/src/hu/progmatic/Oroklodes/DogRunner.java" beforeDir="false" afterPath="$PROJECT_DIR$/../JavaCore/src/hu/progmatic/oroklodes/Animal/DogRunner.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaCore/src/hu/progmatic/Oroklodes/DonutsTask8/ChocolateDonuts.java" beforeDir="false" afterPath="$PROJECT_DIR$/../JavaCore/src/hu/progmatic/oroklodes/DonutsTask8/ChocolateDonuts.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaCore/src/hu/progmatic/Oroklodes/DonutsTask8/ClassicDonutsParent.java" beforeDir="false" afterPath="$PROJECT_DIR$/../JavaCore/src/hu/progmatic/oroklodes/DonutsTask8/ClassicDonutsParent.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaCore/src/hu/progmatic/Oroklodes/DonutsTask8/DonutsRunner.java" beforeDir="false" afterPath="$PROJECT_DIR$/../JavaCore/src/hu/progmatic/oroklodes/DonutsTask8/DonutsRunner.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaCore/src/hu/progmatic/Oroklodes/DonutsTask8/MarmaladeDonuts.java" beforeDir="false" afterPath="$PROJECT_DIR$/../JavaCore/src/hu/progmatic/oroklodes/DonutsTask8/MarmaladeDonuts.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaCore/src/hu/progmatic/Oroklodes/EmployeeTask9/DirectReport.java" beforeDir="false" afterPath="$PROJECT_DIR$/../JavaCore/src/hu/progmatic/oroklodes/EmployeeTask9/DirectReport.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaCore/src/hu/progmatic/Oroklodes/EmployeeTask9/Employee.java" beforeDir="false" afterPath="$PROJECT_DIR$/../JavaCore/src/hu/progmatic/oroklodes/EmployeeTask9/Employee.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaCore/src/hu/progmatic/Oroklodes/EmployeeTask9/EmployeeRunner.java" beforeDir="false" afterPath="$PROJECT_DIR$/../JavaCore/src/hu/progmatic/oroklodes/EmployeeTask9/EmployeeRunner.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaCore/src/hu/progmatic/Oroklodes/EmployeeTask9/Manager.java" beforeDir="false" afterPath="$PROJECT_DIR$/../JavaCore/src/hu/progmatic/oroklodes/EmployeeTask9/Manager.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaCore/src/hu/progmatic/Oroklodes/MoreChild/ChildOne.java" beforeDir="false" afterPath="$PROJECT_DIR$/../JavaCore/src/hu/progmatic/oroklodes/MoreChild/ChildOne.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaCore/src/hu/progmatic/Oroklodes/MoreChild/ChildThree.java" beforeDir="false" afterPath="$PROJECT_DIR$/../JavaCore/src/hu/progmatic/oroklodes/MoreChild/ChildThree.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaCore/src/hu/progmatic/Oroklodes/MoreChild/ChildTwo.java" beforeDir="false" afterPath="$PROJECT_DIR$/../JavaCore/src/hu/progmatic/oroklodes/MoreChild/ChildTwo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaCore/src/hu/progmatic/Oroklodes/MoreChild/CommonParentForChildreOneAndTwo.java" beforeDir="false" afterPath="$PROJECT_DIR$/../JavaCore/src/hu/progmatic/oroklodes/MoreChild/CommonParentForChildreOneAndTwo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaCore/src/hu/progmatic/Oroklodes/MoreChild/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../JavaCore/src/hu/progmatic/oroklodes/MoreChild/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaCore/src/hu/progmatic/Oroklodes/MoreChild/Parent.java" beforeDir="false" afterPath="$PROJECT_DIR$/../JavaCore/src/hu/progmatic/oroklodes/MoreChild/Parent.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaCore/src/hu/progmatic/Oroklodes/RacingCar.java" beforeDir="false" afterPath="$PROJECT_DIR$/../JavaCore/src/hu/progmatic/oroklodes/Vehicle/RacingCar.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaCore/src/hu/progmatic/Oroklodes/Vehicle.java" beforeDir="false" afterPath="$PROJECT_DIR$/../JavaCore/src/hu/progmatic/oroklodes/Vehicle/Vehicle.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaCore/src/hu/progmatic/Oroklodes/VehicleRunner.java" beforeDir="false" afterPath="$PROJECT_DIR$/../JavaCore/src/hu/progmatic/oroklodes/Vehicle/VehicleRunner.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaCore/src/hu/progmatic/PolygoninterfaceTask11/PolygonRunner.java" beforeDir="false" afterPath="$PROJECT_DIR$/../JavaCore/src/hu/progmatic/polygoninterfaceTask11/PolygonRunner.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaCore/src/hu/progmatic/PolygoninterfaceTask11/Polygoninterface.java" beforeDir="false" afterPath="$PROJECT_DIR$/../JavaCore/src/hu/progmatic/polygoninterfaceTask11/Polygoninterface.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaCore/src/hu/progmatic/PolygoninterfaceTask11/Rectangle.java" beforeDir="false" afterPath="$PROJECT_DIR$/../JavaCore/src/hu/progmatic/polygoninterfaceTask11/Rectangle.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaCore/src/hu/progmatic/PolygoninterfaceTask11/Square.java" beforeDir="false" afterPath="$PROJECT_DIR$/../JavaCore/src/hu/progmatic/polygoninterfaceTask11/Square.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaCore/src/hu/progmatic/PolygoninterfaceTask11/SquareInterface.java" beforeDir="false" afterPath="$PROJECT_DIR$/../JavaCore/src/hu/progmatic/polygoninterfaceTask11/SquareInterface.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaCore/src/hu/progmatic/PolygoninterfaceTask11/SquareRunner.java" beforeDir="false" afterPath="$PROJECT_DIR$/../JavaCore/src/hu/progmatic/polygoninterfaceTask11/SquareRunner.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaCore/src/hu/progmatic/SportTask12/Events.java" beforeDir="false" afterPath="$PROJECT_DIR$/../JavaCore/src/hu/progmatic/SportTask12/Events.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaCore/src/hu/progmatic/SportTask12/Execution.java" beforeDir="false" afterPath="$PROJECT_DIR$/../JavaCore/src/hu/progmatic/SportTask12/Execution.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaCore/src/hu/progmatic/SportTask12/SemiFinal.java" beforeDir="false" afterPath="$PROJECT_DIR$/../JavaCore/src/hu/progmatic/SportTask12/SemiFinal.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaCore/src/hu/progmatic/SportTask12/Sport.java" beforeDir="false" afterPath="$PROJECT_DIR$/../JavaCore/src/hu/progmatic/SportTask12/Sports.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaCore/src/hu/progmatic/interfaces/WebshopTask10/Order.java" beforeDir="false" afterPath="$PROJECT_DIR$/../JavaCore/src/hu/progmatic/interfaces/WebshopTask10/Order.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaCore/src/hu/progmatic/resources/student.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaCore/src/hu/progmatic/task5/RegistrationMain.java" beforeDir="false" afterPath="$PROJECT_DIR$/../JavaCore/src/hu/progmatic/task5RegistrationForm/RegistrationMain.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaCore/src/hu/progmatic/task5/User.java" beforeDir="false" afterPath="$PROJECT_DIR$/../JavaCore/src/hu/progmatic/task5RegistrationForm/User.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaCore/src/hu/progmatic/task6/Booking.java" beforeDir="false" afterPath="$PROJECT_DIR$/../JavaCore/src/hu/progmatic/task6Booking/Booking.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaCore/src/hu/progmatic/task6/BookingMain.java" beforeDir="false" afterPath="$PROJECT_DIR$/../JavaCore/src/hu/progmatic/task6Booking/BookingMain.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaCore/src/hu/progmatic/temp/Employee.java" beforeDir="false" afterPath="$PROJECT_DIR$/../JavaCore/src/hu/progmatic/temp/Employee.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaCore/src/hu/progmatic/temp/EmployeeMain.java" beforeDir="false" afterPath="$PROJECT_DIR$/../JavaCore/src/hu/progmatic/temp/EmployeeMain.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SFJ_Beginner/firstproject/ElsoProject.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/SFJ_Beginner/firstproject/ElsoProject.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/firstproject/ElsoProject.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/firstproject/ElsoProject.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/firstproject/Human.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/firstproject/Human.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../first_project/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../first_project/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../first_project/out/production/first_project/Playground.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../first_project/out/production/first_project/Task63_Triangle_WithMethod2_2.class" beforeDir="false" afterPath="$PROJECT_DIR$/../first_project/out/production/first_project/Task63_Triangle_WithMethod2_2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../first_project/out/production/first_project/Task65_ko_papir_ollo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../first_project/src/Task63_Triangle_WithMethod2_2.java" beforeDir="false" afterPath="$PROJECT_DIR$/../first_project/src/Task63_Triangle_WithMethod2_2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../first_project/src/Task65_ko_papir_ollo.java" beforeDir="false" afterPath="$PROJECT_DIR$/../first_project/src/Task65_ko_papir_ollo_withMethod.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2HqtEl7SuVZvzbShxzm1X7nT83p" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "last_opened_file_path": "D:/Dokumentumok/Zsolt/Progmatic/IdeaProjects/SFJ_Beginner",
+    "settings.editor.selected.configurable": "preferences.pluginManager"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\Dokumentumok\Zsolt\Progmatic\IdeaProjects\SFJ_Beginner\src\firstproject" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.ElsoProject">
+    <configuration name="AnimalRun" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="firstproject.AnimalRun" />
+      <module name="SFJ_Beginner" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="firstproject.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CensorProg_01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="firstproject.CensorProg_01" />
+      <module name="SFJ_Beginner" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="firstproject.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ElsoProject" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="firstproject.ElsoProject" />
+      <module name="SFJ_Beginner" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="firstproject.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MasodikProject" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="firstproject.MasodikProject" />
+      <module name="SFJ_Beginner" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="firstproject.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.ElsoProject" />
+        <item itemvalue="Application.AnimalRun" />
+        <item itemvalue="Application.MasodikProject" />
+        <item itemvalue="Application.CensorProg_01" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="5b3be832-7949-4dfd-93bf-38269d72d3c8" name="Changes" comment="" />
+      <created>1669024332220</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1669024332220</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>

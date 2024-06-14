@@ -1,0 +1,213 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="7bbe47c2-b92c-48da-9ff1-fec2d2e6f2d0" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../Selenium/chromedriver.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Selenium/src/hu/progmatic/AdamChromedriverUpdate.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Task67_practice.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Task68_36_eggprice_Method.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Task68_b_36_eggprice_Method.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Task76_String_trim.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/first_project/Task63_Triangle_WithMethod2_2.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/first_project/Task63_Triangle_WithMethod2_2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/first_project/Task64_Methods_Calculator_HW.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/first_project/Task64_Methods_Calculator_HW.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/first_project/Task65_ko_papir_ollo_withMethod.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/first_project/Task65_ko_papir_ollo_withMethod.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/first_project/Task66_MyFavoriteCar_MethodWithBoolean.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/first_project/Task66_MyFavoriteCar_MethodWithBoolean.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/first_project/Task66_MyFavoriteCar_MethodWithIndex.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/first_project/Task66_MyFavoriteCar_MethodWithIndex.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/first_project/Task72_String_CompanyBuying.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/first_project/Task72_String_CompanyBuying.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/first_project/Task73_String_ShoppingList_step3.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/first_project/Task73_String_ShoppingList_step3.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/first_project/Task75_RunningTestResult_01.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/first_project/Task75_RunningTestResult_01.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/first_project/hu/progmatic/Gyakorlas.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/first_project/hu/progmatic/Task2.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/first_project/hu/progmatic/Task2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/first_project/hu/progmatic/Task36_eggprice_b.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/first_project/resources/triangleResult.log" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/first_project/resources/triangleResult.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Gyakorlas.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Gyakorlas.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Task2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Task2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Task36_eggprice_b.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Task36_eggprice_b.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Task63_Triangle_WithMethod1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Task63_Triangle_WithMethod1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Task63_Triangle_WithMethod2_2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Task63_Triangle_WithMethod2_2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Task63_Triangle_WithMethod3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Task63_Triangle_WithMethod3.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Task64_Methods_Calculator_HW.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Task64_Methods_Calculator_HW.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Task65_ko_papir_ollo_withMethod.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Task65_ko_papir_ollo_withMethod.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Task66_MyFavoriteCar_MethodWithBoolean.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Task66_MyFavoriteCar_MethodWithBoolean.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Task66_MyFavoriteCar_MethodWithIndex.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Task66_MyFavoriteCar_MethodWithIndex.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Task72_String_CompanyBuying.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Task72_String_CompanyBuying.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Task73_String_ShoppingList_step3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Task73_String_ShoppingList_step3.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Task75_RunningTestResult_01.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Task75_RunningTestResult_01.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="AnnotationType" />
+        <option value="Enum" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/src/Task69_FruitList_Method.java" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/src/Task70_String_ChangeToCapital.java" root0="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2HJtSYgTGeWyirYutS2A7viDg2D" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "full.screen.before.presentation.mode": "false",
+    "last_opened_file_path": "D:/Dokumentumok/Zsolt/Progmatic/GitHub/oktatoi/JAVA/JavaBasics",
+    "project.structure.last.edited": "Project",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.0",
+    "settings.editor.selected.configurable": "preferences.pluginManager"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\Dokumentumok\Zsolt\Progmatic\IdeaProjects\first_project\src\Task103b" />
+      <recent name="D:\Dokumentumok\Zsolt\Progmatic\IdeaProjects\first_project\src\resources" />
+      <recent name="D:\Dokumentumok\Zsolt\Progmatic\IdeaProjects\first_project\src" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="" />
+      <recent name="Dates_orai_gyarkorlas" />
+      <recent name="enums.Task107" />
+      <recent name="hu.progmatic" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.Task75_RunningTestResult_01">
+    <configuration name="Task68_b_36_eggprice_Method" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Task68_b_36_eggprice_Method" />
+      <module name="first_project" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Task72_String_CompanyBuying" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Task72_String_CompanyBuying" />
+      <module name="first_project" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Task73_String_ShoppingList" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Task73_String_ShoppingList" />
+      <module name="first_project" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Task73_String_ShoppingList_step3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Task73_String_ShoppingList_step3" />
+      <module name="first_project" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Task75_RunningTestResult_01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Task75_RunningTestResult_01" />
+      <module name="first_project" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Task89_backupOfArguments" type="Application" factoryName="Application" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Task89_backupOfArguments" />
+      <module name="first_project" />
+      <option name="PROGRAM_PARAMETERS" value=" kiskutya, 12, 99, true" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Task91_IO_ReadList" type="Application" factoryName="Application" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Task91_IO_ReadList" />
+      <module name="first_project" />
+      <option name="PROGRAM_PARAMETERS" value="src/resources/actual-food-set.csv" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.Task89_backupOfArguments" />
+      <item itemvalue="Application.Task91_IO_ReadList" />
+      <item itemvalue="Application.Task72_String_CompanyBuying" />
+      <item itemvalue="Application.Task73_String_ShoppingList" />
+      <item itemvalue="Application.Task73_String_ShoppingList_step3" />
+      <item itemvalue="Application.Task75_RunningTestResult_01" />
+      <item itemvalue="Application.Task68_b_36_eggprice_Method" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Task75_RunningTestResult_01" />
+        <item itemvalue="Application.Task73_String_ShoppingList_step3" />
+        <item itemvalue="Application.Task72_String_CompanyBuying" />
+        <item itemvalue="Application.Task73_String_ShoppingList" />
+        <item itemvalue="Application.Task68_b_36_eggprice_Method" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="7bbe47c2-b92c-48da-9ff1-fec2d2e6f2d0" name="Changes" comment="" />
+      <created>1668015017495</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1668015017495</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <ignored-roots>
+      <path value="$PROJECT_DIR$" />
+    </ignored-roots>
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-field">
+          <url>file://$PROJECT_DIR$/../../GitHub/oktatoi/JAVA/OOPBasics/src/hu/progmatic/dto/Learner.java</url>
+          <line>7</line>
+          <properties field="birthday" class="hu.progmatic.dto.Learner" />
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <breakpoint enabled="true" type="java-exception">
+          <properties class="java.lang.NumberFormatException" package="java.lang" />
+          <option name="timeStamp" value="2" />
+        </breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
